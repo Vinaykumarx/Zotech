@@ -1,7 +1,7 @@
-export const Image = ({ title, largeImage, smallImage }) => {
+export const Image = ({ title, largeImage, smallImage, namee, billno }) => {
   return (
     <div className='portfolio-item'>
-      <div className='hover-bg' style={{display:'flex', justifyContent:'center'}}>
+      <div className='hover-bg'>
         {' '}
         <a
           href={largeImage}
@@ -18,6 +18,10 @@ export const Image = ({ title, largeImage, smallImage }) => {
           />{' '}
         </a>{' '}
       </div>
+           <h5 style={{fontSize:'13px'}}>{namee}</h5>
+            <h6>
+              {billno}
+            </h6>
     </div>
   )
 }
