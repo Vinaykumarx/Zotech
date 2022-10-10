@@ -1,7 +1,6 @@
-export default function navigation() {
+export const Navigation = (props) => {
   return (
-    <div>
-      <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
+    <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
       <div className='container'>
         <div className='navbar-header'>
           <button
@@ -17,7 +16,7 @@ export default function navigation() {
             <span className='icon-bar'></span>{' '}
           </button>
           <a className='navbar-brand page-scroll' href='#page-top'>
-            <img src="img/GalaLogo.png" style={{width: '175px' ,margin:"-25px 0px 0px -30px"}} className="img-responsive" alt="" />
+            <img src="img/Zotech_logo.png" style={{width: 250,margin:"-20px 0px 0px -40px"}} className="img-responsive" alt="" />
           </a>{' '}
         </div>
 
@@ -28,18 +27,47 @@ export default function navigation() {
           <ul className='nav navbar-nav navbar-right'>
             <li>
               <a href='#features' className='page-scroll'>
-                Rules and Regulations
+                Features
+              </a>
+            </li>
+            <li>
+              <a href='#about' className='page-scroll'>
+                About
+              </a>
+            </li>
+            <li>
+              <a href='#services' className='page-scroll'>
+                Services
               </a>
             </li>
             <li>
               <a href='#portfolio' className='page-scroll'>
-                Gallery
+                Clients
+              </a>
+            </li>
+            {/* <li>
+              <a href='#testimonials' className='page-scroll'>
+                Testimonials
+              </a>
+            </li>
+            <li>
+              <a href='#team' className='page-scroll'>
+                Team
+              </a>
+            </li> */}
+            <li>
+              <a href='#contact' className='page-scroll'>
+                Contact
+              </a>
+            </li>
+            <li>
+              <a href='#contact' className='page-scroll'>
+                Careers
               </a>
             </li>
           </ul>
         </div>
       </div>
     </nav>
-    </div>
   )
 }
