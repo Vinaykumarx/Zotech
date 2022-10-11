@@ -17,7 +17,7 @@ export const About = (props) => {
                   <ul>
                     {props.data
                       ? props.data.Why.map((d, i) => (
-                          <li key={`${d}-${i}`}>{d}</li>
+                          <li style={{height:40}} key={`${d}-${i}`}>{d}</li>
                         ))
                       : "loading"}
                   </ul>

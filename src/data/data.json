@@ -1,10 +1,10 @@
 {
   "Header": {
     "title": "Zotech AI",
-    "paragraph": "Zotech is a team of inspiring, talented  and experienced engineers who aspires in providing IT consulting and solutions to customers all around the globe. We aim at organizations build their digital capabilities constantly and seamlessly, from ideation and development to execution and evolution."
+    "paragraph": "Zotech is a team of inspiring, talented  and experienced engineers who aspires in providing IT consulting and solutions to customers all around the globe. We aim at organizations build their digital capabilities constantly and seamlessly, from ideation and development to execution and evolution"
   },
   "About": {
-    "paragraph": "Founded in 2022, Zotech is a team of inspiring, talented  and experienced engineers who aspires in providing IT consulting and solutions to customers all around the globe. We aim at organizations build their digital capabilities constantly and seamlessly, from ideation and development to execution and evolution.",
+    "paragraph": "Founded in 2022, Zotech is a team of inspiring, talented  and experienced engineers who aspires in providing IT consulting and solutions to customers all around the globe. We aim at organizations build their digital capabilities constantly and seamlessly, from ideation and development to execution and evolution",
     "Why": [
       "Goal Oriented, ROI-Driven Focus",
       "A Streamlined / Quality-Driven Process",
@@ -67,52 +67,52 @@
     {
       "icon": "fa fa-desktop",
       "name": "Web Application Development",
-      "text": "Our dedicated web application developers will develop and deliver web applications that help you to improve operational efficiency, accelerate decision-making and gain competitive advantage. We always focus on the scalability and security of the applications and adapt Micro Services to adhere to the security standards."
+      "text": "Our dedicated web application developers will develop and deliver web applications that help you to improve operational efficiency, accelerate decision-making and gain competitive advantage. We always focus on the scalability and security of the applications and adapt Micro Services to adhere to the security standards"
     },
     {
       "icon": "fa fa-mobile",
       "name": "Mobile Application",
-      "text": "Our Hybrid app development team have developed apps for multiple platforms with a single code base with frameworks like Xamarin, Ionic, React Native & Phonegap."
+      "text": "Our Hybrid app development team have developed apps for multiple platforms with a single code base with frameworks like Xamarin, Ionic, React Native & Phonegap"
     },
     {
       "icon": "fa fa-cogs",
       "name": "Website Maintenance",
-      "text": " The software applications we’re building are here for the long-term. We need to be thinking like traditional software vendors. Our software will still be running for 10 or 15 years from now, and it should be kept well maintained."
+      "text": " The software applications we’re building are here for the long-term. We need to be thinking like traditional software vendors. Our software will still be running for 10 or 15 years from now, and it should be kept well maintained"
     },
     {
       "png": "img/services/SAP.png",
       "name": "SAP S/4HANA",
-      "text": "SAP S/4HANA is a real-time enterprise resource management suite for digital business. SAP HANA offers a personalized, customer-grade user experience with SAP Fiori. Zotech’s expertise in various modules like Sales & Distribution, Finance and Controlling, Material Management, Inventory, Purchase, Customer services etc will equip the customers to reduce costs, maximize revenue and improve competitive edge."
+      "text": "SAP S/4HANA is a real-time enterprise resource management suite for digital business. SAP HANA offers a personalized, customer-grade user experience with SAP Fiori. Zotech’s expertise in various modules like Sales & Distribution, Finance and Controlling, Material Management, Inventory, Purchase, Customer services etc will equip the customers to reduce costs, maximize revenue and improve competitive edge"
     },
     {
       "png": "img/services/SAP.png",
       "name": "SAP BW4HANA and Analytics",
-      "text": "Zotech provides right sized solutions to our customers with ability to scale to meet the analytical needs. Our consultants expertise in BW4HANA and data science help the customers to provide and holistic and broader long-term visions for the business. Our reputation in delivering quality implementations on schedule and on budget will guide our customers through the full project lifecycle, taking a collaborative approach with each our clients to ensure project success."
+      "text": "Zotech provides right sized solutions to our customers with ability to scale to meet the analytical needs. Our consultants expertise in BW4HANA and data science help the customers to provide and holistic and broader long-term visions for the business. Our reputation in delivering quality implementations on schedule and on budget will guide our customers through the full project lifecycle, taking a collaborative approach with each our clients to ensure project success"
     },
     {
       "png": "img/services/SAP.png",
       "name": "SAP CAR",
-      "text": "SAP Customer Activity Repository (CAR) is SAP’s new and powerful data platform that collects, cleanses, and centralizes customer and transactional data previously spread in different formats over separate applications. It provides a common foundation and a harmonized multichannel transaction data model for all-consuming applications. Our expertise in POSDTA, Multichannel Transaction Data Management, Unified Demand Forecast (UDF), Demand Data Foundation (DDF), Omnichannel Promotion Pricing (OPP), Inventory Visibility and Omnichannel Article Availability, On-Shelf Availability (OSA) and Sourcing (OAA) will give retailers unprecedented insight into how their customers shop with them across multiple channels. Businesses can access critical information to support daily business decisions without a tremendous amount of latency. Access to this data and the pre-delivered SAP analytical content and tools allows retailers to quickly identify trends, issues, and changes in customer behaviors and act on them."
+      "text": "SAP Customer Activity Repository (CAR) is SAP’s new and powerful data platform that collects, cleanses, and centralizes customer and transactional data previously spread in different formats over separate applications. It provides a common foundation and a harmonized multichannel transaction data model for all-consuming applications. Our expertise in POSDTA, Multichannel Transaction Data Management, Unified Demand Forecast (UDF), Demand Data Foundation (DDF), Omnichannel Promotion Pricing (OPP), Inventory Visibility and Omnichannel Article Availability, On-Shelf Availability (OSA) and Sourcing (OAA) will give retailers unprecedented insight into how their customers shop with them across multiple channels. Businesses can access critical information to support daily business decisions without a tremendous amount of latency. Access to this data and the pre-delivered SAP analytical content and tools allows retailers to quickly identify trends, issues, and changes in customer behaviors and act on them"
     },
     {
       "png": "img/services/SAP.png",
       "name": "SAP EWM",
-      "text": "Managing inventory and better customer support is a must for modern business. With our expertise in SAP EWM, the customers will be able to handle high volume of items, to be agile, and to be adaptable. An advanced and adaptable warehouse management system (WMS) helps you manage items, streamline procedures, and save money. SAP EWM is the more advanced SAP WMS version."
+      "text": "Managing inventory and better customer support is a must for modern business. With our expertise in SAP EWM, the customers will be able to handle high volume of items, to be agile, and to be adaptable. An advanced and adaptable warehouse management system (WMS) helps you manage items, streamline procedures, and save money. SAP EWM is the more advanced SAP WMS version"
     },
     {
       "png": "img/services/SAP.png",
       "name": "SAP Hybris",
-      "text": "SAP Hybris is a digital experience delivery platform that allows businesses to manage their customer data, offers marketing tools and assists with unified commerce processes. Companies across sectors can utilize SAP Hybris to deliver a better experience to their customers. The Hybris omni-channel commerce solutions help you to better target your customers and offer them delightful experiences across every channel seamlessly. Zotech can enable customers to build their own digital platforms with the help of SAP Hybris."
+      "text": "SAP Hybris is a digital experience delivery platform that allows businesses to manage their customer data, offers marketing tools and assists with unified commerce processes. Companies across sectors can utilize SAP Hybris to deliver a better experience to their customers. The Hybris omni-channel commerce solutions help you to better target your customers and offer them delightful experiences across every channel seamlessly. Zotech can enable customers to build their own digital platforms with the help of SAP Hybris"
     },
     {
       "png": "img/services/posMachine.png",
       "name": "LS Retail",
-      "text": "LS Retail is a retail management software which helps customers to run their entire business on a single platform. It covers all parts of the enterprise, giving businesses a single, clear overview, so they can make data-informed decisions that drive results. LS Retail cut IT costs considerably and can operate as a unified brand, run promotions, track loyalty, view data – all the stuff that makes a business truly effective and successful. Our expertise in retail industry can make the customers even more competitive and successful. "
+      "text": "LS Retail is a retail management software which helps customers to run their entire business on a single platform. It covers all parts of the enterprise, giving businesses a single, clear overview, so they can make data-informed decisions that drive results. LS Retail cut IT costs considerably and can operate as a unified brand, run promotions, track loyalty, view data – all the stuff that makes a business truly effective and successful. Our expertise in retail industry can make the customers even more competitive and successful"
     },
     {
       "icon": "fa fa-shopping-cart",
       "name": "Ecommerce Development",
-      "text": "Zotech can help customers - big and small, build e-commerce platforms to get their businesses up and running on the web. Setting up an online store for the first time or updating your current platform, platform implementation is one of the most complex aspects of launching an e-commerce site. With our amazing experience in ecommerce, programming expertise and deep knowledge will help the customers to avoid cost overruns, programming errors, and delays resulting in poor sales performance and reduced profits."
+      "text": "Zotech can help customers - big and small, build e-commerce platforms to get their businesses up and running on the web. Setting up an online store for the first time or updating your current platform, platform implementation is one of the most complex aspects of launching an e-commerce site. With our amazing experience in ecommerce, programming expertise and deep knowledge will help the customers to avoid cost overruns, programming errors, and delays resulting in poor sales performance and reduced profits"
     }
   ],
   "Testimonials": [
@@ -181,27 +181,27 @@
     {
       "icon": "fa fa-users",
       "title": "Customer Focused",
-      "text": "We exceed expectations through great discipline and ensure a world class customer experience."
+      "text": "We exceed expectations through great discipline and ensure a world class customer experience"
     },
     {
       "icon": "fa fa-arrow-circle-up",
       "title": "Think Big",
-      "text": "We think boldly. Also we think positive and realistic ways to get things done."
+      "text": "We think boldly. Also we think positive and realistic ways to get things done"
     },
     {
       "icon": "fa fa-expand",
       "title": "Passionate",
-      "text": "LoWe strive for excellence and go the extra mile to achieve maximum possible."
+      "text": "We strive for excellence and go the extra mile to achieve maximum possible"
     },
     {
       "icon": "fa fa-star",
       "title": "Integrity",
-      "text": "We are consistent, honest and fair and always do what is right."
+      "text": "We are consistent, honest and fair and always do what is right"
     },
     {
       "icon": "fa fa-magic",
       "title": "Discipline",
-      "text": "In everything we do. We accept responsibility and deliver on all of our commitments."
+      "text": "In everything we do. We accept responsibility and deliver on all of our commitments"
     }
   ]
 }
