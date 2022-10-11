@@ -7,10 +7,7 @@ export const Features = (props) => {
         </div>
         <div className='row'>
           <div class="col align-self-center">
-            {/* One of three columns */}
-            {/* <div className='col-xs-0 col-md-1'>
-              {' '} 
-            </div> */}
+          
           {props.data
             ? props.data.map((d, i) => (
                 <div key={`${d.title}-${i}`} className='col-md-4'>
@@ -21,9 +18,7 @@ export const Features = (props) => {
                 </div>
               ))
             : 'Loading...'}
-            {/* <div className='col-xs-0 col-md-1'>
-                  {' '}
-            </div> */}
+           
           </div>
         </div>
       </div>

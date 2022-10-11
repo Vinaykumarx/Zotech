@@ -23,10 +23,7 @@ export const Services = (props) => {
       <div className='container'>
         <div className='section-title'>
           <h2>Our Services</h2>
-          {/* <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
-          </p> */}
+      
         </div>
         <div className='row'>
           {props.data
@@ -36,13 +33,11 @@ export const Services = (props) => {
                 {d.icon ? <i className={d.icon}></i> :
                   <img
                     src={d.png}
-                    // id='service-img-size'
-                    // style={{height:"20px",width:"20px"}}
                     alt={"123121"}
                   />}
                 <div className='service-desc'>
                   <h3>{d.name}</h3>
-                    {/* <p>{d.text}</p> */}
+                
                   <ReadMore>
                   {d.text}
                   </ReadMore>
